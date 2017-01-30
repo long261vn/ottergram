@@ -1,6 +1,6 @@
 # ottergram
 LONG NGUYEN - CPSC473
-*************************************************************************************************
+
 Assignment 1 - Spring 2017
 (Section 2 due January 30. Section 1 due February 1.)
 In this first assignment, you will work through Chapters 1 and 2 of the textbook and upload the
@@ -15,4 +15,3 @@ Complete the following:
 6. Confirm that your result matches the page shown in the book.
 7. Complete the Silver Challenge: Adding a favicon.ico.
 8. Create a new public GitHub repository and push the contents of your ottergram directory.
-*************************************************************************************************
