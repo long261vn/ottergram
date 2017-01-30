@@ -7,6 +7,7 @@ In this first assignment, you will work through Chapters 1 and 2 of the textbook
 result to GitHub.
 
 Complete the following:
+
 1. Create a free account on GitHub , if you do not already have one.
 2. Install and configure a Git client (e.g., git , SourceTree , or GitHub Desktop ).
 3. Read the Hello World GitHub Guide and configure your computer for use with GitHub.
