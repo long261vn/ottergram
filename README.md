@@ -12,7 +12,7 @@ Complete the following:
 2. Install and configure a Git client (e.g., git , SourceTree , or GitHub Desktop ).
 3. Read the Hello World GitHub Guide and configure your computer for use with GitHub.
 4. Work through Chapter 1, installing and configuring the required software.
-5. Work through Chapter 2, creating styles.css and index.html and downloading and extracting front-end-dev-resources.zip .
+5. Work through Chapter 2, creating styles.css and index.html and downloading and extracting front-end-dev-resources.zip
 6. Confirm that your result matches the page shown in the book.
 7. Complete the Silver Challenge: Adding a favicon.ico.
 8. Create a new public GitHub repository and push the contents of your ottergram directory.
