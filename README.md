@@ -1,8 +1,8 @@
 # ottergram
 LONG NGUYEN - CPSC473
-
-Assignment 1 - Spring 2017
+# Assignment 1 - Spring 2017
 (Section 2 due January 30. Section 1 due February 1.)
+
 In this first assignment, you will work through Chapters 1 and 2 of the textbook and upload the
 result to GitHub.
 
